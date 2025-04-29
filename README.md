@@ -26,3 +26,4 @@ currency_etl/
 ├── requirements.txt
 ├── README.md
 ├── data/
+├── check_table.py
