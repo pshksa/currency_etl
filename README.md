@@ -22,7 +22,7 @@ currency_etl/
 
 ├── scripts/
 
-├── etl_functions.py
+    ├── etl_functions.py
 
 ├── main.py
 
