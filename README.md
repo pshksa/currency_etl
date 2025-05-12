@@ -19,6 +19,7 @@
 ## Структура проекта
 
 currency_etl/
+
 ├── scripts/
 
 ├── etl_functions.py
